@@ -1,0 +1,15 @@
+body{
+    background-image: url("assets/background.jpg");
+    background-color: #242424;
+    color: aliceblue;
+}
+.size-title {
+    font-size: 7vw;
+  }
+
+.pancho{
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
