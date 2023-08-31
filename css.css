@@ -1,15 +1,14 @@
 body{
-    background-image: url("assets/background.jpg");
-    background-color: #242424;
+    background: linear-gradient(90deg, rgb(2, 32, 41) 0%, rgb(0, 4, 20) 30%,rgb(0, 4, 20) 60%, rgb(0, 26, 23) 100%);
     color: aliceblue;
 }
 .size-title {
     font-size: 7vw;
   }
-
-.pancho{
+.img{
     background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
+    background-position: 70%;
+    border-radius: 80%;
     background-size: 100% auto;
+    max-width: 400px;
 }
